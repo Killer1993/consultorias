@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/consultorias/static/css/main.b46117fe.chunk.css",
+    "main.js": "/consultorias/static/js/main.73f23e7a.chunk.js",
+    "main.js.map": "/consultorias/static/js/main.73f23e7a.chunk.js.map",
+    "runtime~main.js": "/consultorias/static/js/runtime~main.47b54cea.js",
+    "runtime~main.js.map": "/consultorias/static/js/runtime~main.47b54cea.js.map",
+    "static/js/2.5bf6e154.chunk.js": "/consultorias/static/js/2.5bf6e154.chunk.js",
+    "static/js/2.5bf6e154.chunk.js.map": "/consultorias/static/js/2.5bf6e154.chunk.js.map",
+    "index.html": "/consultorias/index.html",
+    "precache-manifest.3721b39cfd0da07354119b596eb8df3e.js": "/consultorias/precache-manifest.3721b39cfd0da07354119b596eb8df3e.js",
+    "service-worker.js": "/consultorias/service-worker.js",
+    "static/css/main.b46117fe.chunk.css.map": "/consultorias/static/css/main.b46117fe.chunk.css.map",
+    "static/media/jou.jpg": "/consultorias/static/media/jou.bd30dfb7.jpg",
+    "static/media/logo.jpeg": "/consultorias/static/media/logo.b98b984d.jpeg",
+    "static/media/macho.jpg": "/consultorias/static/media/macho.97e2c594.jpg",
+    "static/media/manuel.jpg": "/consultorias/static/media/manuel.9d447370.jpg",
+    "static/media/yehu.jpg": "/consultorias/static/media/yehu.047f0410.jpg"
+  }
+}
